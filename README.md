@@ -1,1 +1,2 @@
-# SwiggyClone
+# swiggy-clone
+Swiggy Clone React
